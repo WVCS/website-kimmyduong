@@ -13,13 +13,13 @@ li{
 li a{
   color:#DFEFD;
   padding: 15px;
-  font-family:"Roboto", Fantasy;
+  font-family:"Roboto";
   text-decoration-line: none;
   border-style:solid;
 }
 li a:hover{
-  background-color:transparent;
-  color:#DFEF;
+  background-color:white;
+  color:#0C7489;;
 }
 h2{
   color:#DFEFD;
